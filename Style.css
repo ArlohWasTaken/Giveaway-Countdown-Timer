@@ -3,6 +3,8 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-image: url(S24\ Ultra\ img.jpg);
+    font-family: 'SamsungOne', sans-serif;
+    font-family: 'Samsung Sharp Sans', sans-serif;
 }
 @keyframes fadeInUpTitle{
     0% {
@@ -39,34 +41,24 @@ body{
     color: rgb(191,190,185);
     font-size: 4rem;    
     animation: 1.5s fadeInUpTitle;
-    font-family: 'SamsungOne', sans-serif;
-    font-family: 'Samsung Sharp Sans', sans-serif;
-
 }
 .giveaway-type{
     text-align: center;
     font-size: .8rem;
     color: rgb(191,190,185);
     animation: 1.5s fadeInUpTitle;
-    font-family: 'SamsungOne', sans-serif;
-    font-family: 'Samsung Sharp Sans', sans-serif;
 
 }
 .description{
     width: 17rem;
     font-size: .65rem;
-    
     text-align: left; 
-    font-family: 'SamsungOne', sans-serif;
-    font-family: 'Samsung Sharp Sans', sans-serif;
     display: inline-block;
     color: rgb(100,95,102);
     padding: 7rem 0 0 .5rem;
     animation: 1.5s fadeInRightDesc;
 }
 .TnC{
-    font-family: 'SamsungOne', sans-serif;
-    font-family: 'Samsung Sharp Sans', sans-serif;
     font-size: .7rem;
     color: grey;
     text-align: left;
@@ -79,8 +71,6 @@ body{
     font-size: 3.5rem;
     text-align: right;
     float: right;
-    font-family: 'SamsungOne', sans-serif;
-    font-family: 'Samsung Sharp Sans', sans-serif;
     color: rgb(100,95,102);
     width: 17rem;
     animation: 1.5s fadeInLeftTimer;
