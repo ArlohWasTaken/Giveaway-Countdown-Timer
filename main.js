@@ -19,7 +19,7 @@ var x = setInterval(function() {
   // Display the result in the element with id="demo"
   document.getElementById("demo").innerHTML = 
     `<span style="font-size: 4rem">${days}Days</span>
-     <span style="font-size: 2.8rem">${hours}Hours</span>
+     <span style="font-size: 2.9rem">${hours}Hours</span>
      <span style="font-size: 2.3rem">${minutes}Minutes</span>
      <span style="font-size: 1.7rem">${seconds}Seconds</span>`;
     
